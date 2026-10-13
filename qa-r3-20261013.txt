@@ -1,0 +1,3 @@
+TronIDE QA 2026-10-13
+UTF-8: 中文 ✓
+Only synthetic test content.
